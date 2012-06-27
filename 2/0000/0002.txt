@@ -5,10 +5,10 @@
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
 Escoge un Pokémon.
-どの　ポケモンに　つかう？
-どれと　いれかえる？
+¿Usar en cual pokémon?
+¿Cual vas a reemplazar？
 ¿Combatir con cuál Pokémon?
-どの　ポケモンを　もどす？
+¿Reemplazar por cual pokemon？
 L\xf000Ȃ\x0001\x0000
 /
 \xf000Ȃ\x0001\x0000
@@ -19,7 +19,7 @@ L\xf000Ȃ\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 PP
-いれかえる
+CAMBIAR
 ♂
 ♀
 DATOS
